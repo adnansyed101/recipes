@@ -14,15 +14,6 @@ a {
   color: black;
 }
 
-ol {
-  margin: 10px 40px;
-}
-
-ul {
-  margin: 10px 30px;
-}
-
-
 ul > li {
   list-style-type: square;
 }
@@ -43,5 +34,5 @@ li {
 }
 
 #content {
-  margin: 10px 20px;
+  margin: 10px 40px;
 }
