@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: #fcfcfc;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#header {
+  margin: 10px 0;
+  text-align: center;
+  font-size: 48px;
+}
+
+#body-img {
+  height: 500px;
+  margin: 0 20px;
+}
+
+#content {
+  margin: 10px 20px;
+}
